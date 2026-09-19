@@ -1,6 +1,6 @@
 # Collaboration Guidelines
 
-Collaboration in this project is intentionally simple so that the focus remains on learning version control practices. Contributors are encouraged to make small, focused changes and to explain their reasoning clearly in commit messages and pull requests.
+Collaboration requires clear communication and well-defined responsibilities.
 
 When multiple people work on these documents, it is common for changes to overlap. Overlapping changes can lead to merge conflicts, which are a normal part of a collaborative workflow.
 
